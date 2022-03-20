@@ -3,7 +3,7 @@ Easy way to use Telegram bot to hide your identity. Useful for support, anonymou
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-[(https://img.shields.io/badge/-instagram-green.svg?style=for-the-badge&logo=linstagram&colorB=red](https://Instagram.com/_.thaju____)
+https://img.shields.io/badge/-instagram-green.svg?style=for-the-badge&logo=linstagram&colorB=red(https://instagram.com/_.thaju____)
 ## How bot works:
 
 1. Your client write a message to your bot
