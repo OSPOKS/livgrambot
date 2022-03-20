@@ -4,7 +4,14 @@ Easy way to use Telegram bot to hide your identity. Useful for support, anonymou
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 [![instagram](https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=Instagram&logoColor=red)](https://instagram.com/_.thaju____)
-## How bot works:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/armiy_v)
+
+[![buy me a coffee](https://img.shields.io/badge/buy me a coffee -2CA5E0?style=for-the-badge&logo=buymeacoffee&logoColor=yellow)](buymeacoffee.com/thaju)
+
+## How bot works :
+
+
 
 1. Your client write a message to your bot
 2. Bot forwards the message to your secret chat
