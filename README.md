@@ -1,6 +1,6 @@
-#livgrambot
+# livgrambot
 
-##fork and deploy :fork:
+## fork and deploy :fork:
 
 Easy way to use Telegram bot to hide your identity. Useful for support, anonymous channel management. Free clone of Livegram Bot. 
 
