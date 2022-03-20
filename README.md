@@ -55,10 +55,10 @@ Then you can run the bot. Don't forget to create `.env` file in the root folder 
 ``` bash
 python main.py
 ```
-###### [licence](http://www.apache.org/licenses/LICENSE-2.0)
-###### [view licence](https://github.com/Thajudecodes/livgrambot/blob/464bf4d3fc487378315b3d0772e171a56d21da9c/LICENSE)
+### [licence](http://www.apache.org/licenses/LICENSE-2.0)
+### [view licence](https://github.com/Thajudecodes/livgrambot/blob/464bf4d3fc487378315b3d0772e171a56d21da9c/LICENSE)
 
-#### Copyright  2022  thajudheen
+### Copyright  2022  thajudheen
 
  ### Licensed under the Apache License, Version 2.0 (the "License");
 
