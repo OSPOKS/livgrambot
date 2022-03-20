@@ -2,7 +2,7 @@
 Easy way to use Telegram bot to hide your identity. Useful for support, anonymous channel management. Free clone of Livegram Bot. 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
+[!instagram](https://.www.instagramcdn.com/instagram/buttom.svg](https://Instagram.com/_.thaju____
 ## How bot works:
 
 1. Your client write a message to your bot
