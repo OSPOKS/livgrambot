@@ -44,3 +44,4 @@ Then you can run the bot. Don't forget to create `.env` file in the root folder 
 ``` bash
 python main.py
 ```
+#[licence](http://www.apache.org/licenses/LICENSE-2.0)
