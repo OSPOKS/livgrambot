@@ -7,7 +7,7 @@ Easy way to use Telegram bot to hide your identity. Useful for support, anonymou
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/armiy_v)
 
-[![buy me a coffee](https://img.shields.io/badge/buy me a coffee -2CA5E0?style=for-the-badge&logo=buymeacoffee&logoColor=yellow)](buymeacoffee.com/thaju)
+[![buy me a coffee](https://img.shields.io/badge/buymeacofee-2CA5E0?style=for-the-badge&logo=buymeacoffee&logoColor=yellow)](https://buymeacoffee.com/thaju)
 
 ## How bot works :
 
