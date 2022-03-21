@@ -17,10 +17,11 @@
 #   See the License for the specific language governing permissions and
 
 #   limitations under the License.### 
-from telegram.ext import Updater
 
+from telegram.ext import Updater
 from handlers import setup_dispatcher
 from settings import TELEGRAM_TOKEN, HEROKU_APP_NAME, PORT
+
 
 # Setup bot handlers
 updater = Updater(TELEGRAM_TOKEN)
